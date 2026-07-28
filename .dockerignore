@@ -1,0 +1,9 @@
+.venv
+frontend/node_modules
+frontend/dist
+data/catalogo.db
+backend/catalogo.db
+backend/static
+backend/__pycache__
+**/__pycache__
+.git
